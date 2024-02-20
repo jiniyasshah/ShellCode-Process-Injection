@@ -18,8 +18,8 @@ Use with extreme caution: Shellcode injection can have serious security implicat
 
 ## Prerequisites
 
-This tool is designed for Windows operating systems.
-Exercise extreme caution and responsibility when using this tool.
+- This tool is designed for Windows operating systems.
+- Exercise extreme caution and responsibility when using this tool.
 
 ## Contribution
 
